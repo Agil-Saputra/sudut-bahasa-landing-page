@@ -257,6 +257,7 @@ export default function Home() {
         <div className="relative">
           <Image
             src={BlueBackround}
+			alt="blue-bg"
             className="absolute -z-10 -translate-y-8 lg:-translate-y-32 xl:-translate-y-38 w-full h-full object-cover"
           />
 

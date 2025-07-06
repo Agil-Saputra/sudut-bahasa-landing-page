@@ -114,7 +114,7 @@ export default function TestimonialSlider() {
       <div className="max-w-3xl mx-auto">
         <div className="bg-gradient-to-b from-[#20062E] to-[#360F4C] backdrop-blur-sm border-3 border-pink-500/70 rounded-4xl px-8 py-16 text-white">
           <div className="mb-6">
-            <p className="text-lg lg:text-3xl leading-relaxed">"{testimonials[currentIndex].text}"</p>
+            <p className="text-lg lg:text-3xl leading-relaxed">&ldquo;{testimonials[currentIndex].text}&ldquo;</p>
           </div>
 
           <div className="space-y-3">
