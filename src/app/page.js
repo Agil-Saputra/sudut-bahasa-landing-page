@@ -1,18 +1,18 @@
 "use client";
 import Image from "next/image";
 // Asset imports - Logo and hero images
-import Logo from "@/app/assets/logo.png";
-import Speakers from "@/app/assets/speakers-hero.png";
+import Logo from "@/app/assets/logo.webp";
+import Speakers from "@/app/assets/speakers-hero.webp";
 // Icon imports - Warning and sad icons for UI elements
 import Warningicon from "@/app/assets/icons/icon-warning.png";
 import SadIcon from "@/app/assets/icons/icon-sad.png";
-import JerryPicture from "@/app/assets/jerry-picture.png";
-import WomenSpeaker from "@/app/assets/women-speaker.png";
-import ProgramTitle from "@/app/assets/program-speaking-master-title.png";
-import Laptop from "@/app/assets/laptop.png";
-import Beginner from "@/app/assets/beginner.png";
-import Intermediate from "@/app/assets/intermediate.png";
-import Advanced from "@/app/assets/advanced.png";
+import JerryPicture from "@/app/assets/jerry-picture.webp";
+import WomenSpeaker from "@/app/assets/women-speaker.webp";
+import ProgramTitle from "@/app/assets/program-speaking-master-title.webp";
+import Laptop from "@/app/assets/laptop.webp";
+import Beginner from "@/app/assets/beginner.webp";
+import Intermediate from "@/app/assets/intermediate.webp";
+import Advanced from "@/app/assets/advanced.webp";
 import BenefitIcon1 from "@/app/assets/icons/icon-benefit1.png";
 import BenefitIcon2 from "@/app/assets/icons/icon-benefit2.png";
 import BenefitIcon3 from "@/app/assets/icons/icon-benefit3.png";
@@ -22,11 +22,11 @@ import CloseIcon from "@/app/assets/icons/icon-close-filled.svg";
 import Accent from "@/app/assets/accent.svg";
 import Accent3 from "@/app/assets/accent3.svg";
 import Accent2 from "@/app/assets/accent2.svg";
-import Client1 from "@/app/assets/client1.png";
-import Client2 from "@/app/assets/client2.png";
-import Client3 from "@/app/assets/client3.png";
-import Client4 from "@/app/assets/client4.png";
-import BlueBackround from "@/app/assets/blue-background.png";
+import Client1 from "@/app/assets/client1.webp";
+import Client2 from "@/app/assets/client2.webp";
+import Client3 from "@/app/assets/client3.webp";
+import Client4 from "@/app/assets/client4.webp";
+import BlueBackround from "@/app/assets/blue-background.webp";
 
 import TestimonialSlider from "./components/testimonial-slider";
 import Faqs from "./components/faqs";
