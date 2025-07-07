@@ -408,11 +408,11 @@ export default function Home() {
           </h2>
 
           <div>
-            <div className="flex flex-col lg:flex-row w-full items-start gap-4 lg:gap-10">
+            <div className="flex flex-col lg:flex-row items-start gap-4 lg:gap-10 w-full">
               <Image
                 src={Beginner}
                 alt="Beginner"
-                className="w-full h-auto mt-12"
+                className="max-w-md w-full h-auto mt-12"
               />
               <div className="lg:pt-10">
                 <h3 className="neon-yellow-text text-2xl lg:text-6xl">
@@ -450,14 +450,14 @@ export default function Home() {
               <Image
                 src={Intermediate}
                 alt="intermediate"
-                className="w-full h-auto mt-12"
+                className="max-w-md w-full h-auto mt-12"
               />
             </div>
             <div className="flex flex-col lg:flex-row w-full items-start gap-4 lg:gap-10">
               <Image
                 src={Advanced}
                 alt="advanced"
-                className="w-full h-auto mt-12"
+                className="max-w-md w-full h-auto mt-12"
               />
               <div className="lg:pt-10">
                 <h3 className="neon-yellow-text text-2xl lg:text-6xl">
